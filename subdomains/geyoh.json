@@ -1,0 +1,14 @@
+
+{
+  "$schema": "https://raw.githubusercontent.com/is-pinoy-dev/domains/main/schemas/v1/subdomain.schema.json",
+  "subdomain": "geyoh",
+  "owner": {
+    "github": "Geyoh",
+    "email": "geofreysarabia620@gmail.com"
+  },
+  "records": {
+    "CNAME": {
+      "value": "3cf40cb679c6d760.vercel-dns-017.com."
+    }
+  }
+}
